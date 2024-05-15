@@ -4,6 +4,7 @@ I'm passionate about learning. Changed careers from Hospitality 🏨 to Web Deve
 I'm focusing on front-end development and design.
 
 👩🏼‍💻 Technologies: 
+
 JavaScript | TypeScript | React | Nextjs | HTML5 | CSS | Sass
 
 
