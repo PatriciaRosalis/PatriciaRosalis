@@ -1,7 +1,11 @@
 👋 Hi, I’m Patricia Rosalis! 
 
-I'm passionate about learning. Changed careers from Hospitality 🏨 to Web Development in 2020 & did a UX/UI Bootcamp in 2022. 
-I'm focusing on front-end development and design.
+A passionate software developer with 4+ years of experience creating innovative, user-focused web solutions.
+
+With a strong focus on delivering seamless user experiences and clean design.
+
+A lifelong learner with a keen eye for detail.
+
 
 👩🏼‍💻 Technologies: 
 
